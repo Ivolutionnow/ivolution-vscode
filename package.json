@@ -36,7 +36,7 @@
 			"properties": {
 				"ivolution-autocompleter-plugin.apiUrl": {
 					"type": "string",
-					"default": "http://localhost:3031/autocomplete",
+					"default": "https://autocomplete.ivolution.ai:3030/autocomplete",
 					"description": "Specifies the URL of the Ivolution API."
 				}
 			}
